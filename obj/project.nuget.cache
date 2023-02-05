@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ebhLCOAyHLsdPd9RIkOPEUyeTSHG0eS/3Vlo/IHFnk2qtMqfRQCCz7fUpEhXsFPrIMoIUNDTnbgO0YC4uyg82A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SONALI MAHAPATRA\\253\\Inventory\\Inventory\\Inventory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SONALI MAHAPATRA\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
